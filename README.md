@@ -2,10 +2,18 @@
 
 **DEPENDENCIES**
 1. Tensorflow: 
-```pip install tensorflow-gpu```
-2.  OpenCV: 
-```pip install opencv-python```
-3.  Matplotlib: 
-```pip install matplotlib```
-4.  Numpy: 
-```pip install numpy```
+```
+pip install tensorflow-gpu
+```
+3.  OpenCV: 
+```
+pip install opencv-python
+```
+5.  Matplotlib: 
+```
+pip install matplotlib
+```
+7.  Numpy: 
+```
+pip install numpy
+```
